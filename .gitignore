@@ -1,0 +1,42 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Keystore (ВАЖНО!)
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin
+*.kotlin_module
+
+# NDK
+.cxx/
+
+# Captures (скриншоты/recordings)
+captures/
+
+# Generated
+app/release/
+app/debug/
+
+# APK / AAB
+*.apk
+*.aab
+
+# Firebase / Google (если есть)
+google-services.json
