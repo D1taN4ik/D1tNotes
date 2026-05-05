@@ -1,55 +1,58 @@
-Вот нормальный, аккуратный README для D1tNotes (под GitHub, без лишнего пафоса, но выглядит как реальный продукт):
+# D1tNotes
 
-⸻
+**D1tNotes** is a simple and convenient notes application designed for fast writing, editing, and organizing personal notes.
 
-D1tNotes
+The app is focused on a clean interface, ease of use, and quick access to important information.
 
-D1tNotes is a simple and convenient notes app for saving ideas, tasks, lists, and personal records. It is designed for everyday use, with a clean interface and local data storage.
+---
 
-Features
+## About
 
-* Create and edit notes
-* Store ideas, tasks, and lists
-* Simple and minimalistic interface
-* Fast and lightweight performance
-* Local data storage (no cloud required)
+D1tNotes helps users create and manage notes in a lightweight and comfortable way.  
+It can be used for personal ideas, reminders, study notes, work tasks, drafts, and everyday records.
 
-Screenshots
+---
 
-Add screenshots here
+## Features
 
-Installation
+- Create, edit, and delete notes
+- Simple and clean user interface
+- Fast access to saved notes
+- Local note management
+- Lightweight and easy to use
+- Suitable for everyday personal use
 
-RuStore
+---
 
-Download the app from RuStore:
+## Download
 
-https://www.rustore.ru/catalog/app/production.d1tan.d1tnotes
+D1tNotes is available on RuStore:
 
-Manual build
+[Download on RuStore](https://www.rustore.ru/catalog/app/production.d1tan.d1tnotes)
 
-git clone https://github.com/D1taN4ik/D1tNotes.git
-cd D1tNotes
+---
 
-Open the project in Android Studio and run it on your device or emulator.
+## Privacy Policy
 
-Tech Stack
+The privacy policy is available here:
 
-* Kotlin
-* Android SDK
-* Gradle
+[Privacy Policy](d1tnotes-privacy-policy.html)
 
-Privacy
+---
 
-D1tNotes does not collect, store, or transmit personal user data.
-All notes are stored locally on the user’s device.
+## Technologies
 
-Privacy Policy:
-https://d1tan.ru/d1tnotes-privacy-policy.html
+The application is developed as part of the D1taN Production ecosystem.
 
-Roadmap
+---
 
-* UI improvements
-* Export / import notes
-* Search functionality
-* Possible sync options (optional, not default)
+## Project Status
+
+The project is under active development.  
+New features and improvements may be added in future versions.
+
+---
+
+## Developer
+
+Developed by **D1taN Production**.
