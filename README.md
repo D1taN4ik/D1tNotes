@@ -36,7 +36,7 @@ D1tNotes is available on RuStore:
 
 The privacy policy is available here:
 
-[Privacy Policy](d1tnotes-privacy-policy.html)
+[Privacy Policy](https://d1tan.ru/d1tnotes/d1tnotes-privacy-policy.html)
 
 ---
 
